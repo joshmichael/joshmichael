@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/joshmichael/joshmichael/main/img/banner2.png" alt="Image showing Joshua Kelly, Software Developer">
+<img src="https://raw.githubusercontent.com/joshmichael/joshmichael/main/img/banner3.png" alt="Image showing Joshua Kelly, Software Developer">
 
 Enthusiastic entry-level software engineer with a strong foundation in programming, problem-solving, and software development gained through my academic studies and projects. Passion for engineering of all types, especially mechanical, electrical, and software. Believer in agile software development, teamwork, and clean code.
 
