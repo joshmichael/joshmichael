@@ -1,10 +1,8 @@
-<img src="https://raw.githubusercontent.com/joshmichael/joshmichael/main/img/banner3.png" alt="Image showing Joshua Kelly, Software Developer">
+<img src="https://raw.githubusercontent.com/joshmichael/joshmichael/main/img/banner4.png" alt="Image showing Joshua Kelly, Engineer">
 
-Enthusiastic entry-level software engineer with a strong foundation in programming, problem-solving, and software development gained through my academic studies and projects. Passion for engineering of all types, especially mechanical, electrical, and software. Believer in agile software development, teamwork, and clean code.
+Enthusiastic entry-level software and electrical engineer with a strong foundation in programming, problem-solving, and software development. Passion for engineering of all types, especially mechanical, electrical, and software. Believer in agile software development, teamwork, and clean code.
 
 4+ years of software engineering-focused education with 2 years @ Gloucestershire College studying Software Engineering and Development, achieving a Level 3 BTEC Extended Diploma in Computing/IT with a grade of DDD (Equivalent to AAA).
-
-Currently seeking a degree apprenticeship to gain practical experience while pursuing academic qualifications.
 
 <picture>
   <!-- Python -->
